@@ -1,9 +1,6 @@
 <a name="top"></a>
 <hr>
 ## Hello there!! Below are little bit background about me.
-[<img src="/>](#education)
-[<img src=""35"/>](#profExp)
-[<img src="" height="35"/>](#skills)
 
 <a name="education"></a>
 <hr>
@@ -18,7 +15,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
 
 <a name="Projects"></a>
 ####Projects
-
+see my projects throughout the courses:
 <a name="profExp"></a>
 <hr>
 
