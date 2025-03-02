@@ -3,18 +3,7 @@
 
 ## Hello there!! Below are little bit background about me.
 [<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#education)
-<a href="#courseProject" style="
-    display: inline-block; 
-    padding: 10px 15px; 
-    border-radius: 15px; 
-    background-color: #4B0082; 
-    color: white; 
-    font-weight: bold; 
-    text-decoration: none;
-">
-    Course Project
-</a>
-
+[<img src="https://![Course Project](https://github.com/user-attachments/assets/3ceb36e7-d44b-4f23-bf58-6139eaeefc20.png" height="35"/>](#projects)
 [<img src="https://user-images.githubusercontent.com/91146906/162140921-207cd392-cfe5-40e6-a84e-0a16e19e405a.svg" height="35"/>](#profExp)
 [<img src="https://user-images.githubusercontent.com/91146906/162140965-cf707805-9abd-43f7-8314-4f96794c44dc.svg" height="35"/>](#skills)
 
@@ -29,8 +18,8 @@ Bachelor of Science Business Administration – Business Information and Analyti
   <li><b>Dean's List</b>: Recognition for outstanding academic achievement .</li>
   <li><b>1st place of 2024 Inclusive Excellence Case Competition </b>: Awarded for exceptional teamwork and problem-solving.</li>
 
-<a name="Course Project"></a>
-####Course Project
+<a name="Projects"></a>
+####Projects
 
 <a name="profExp"></a>
 <hr>
