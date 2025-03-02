@@ -14,7 +14,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
   <li><b>1st place of 2024 Inclusive Excellence Case Competition </b>: Awarded for exceptional teamwork and problem-solving.</li>
 
 <a name="Projects"></a>
-####Projects
+## Projects
 see my projects throughout the courses:
 <a name="profExp"></a>
 <hr>
